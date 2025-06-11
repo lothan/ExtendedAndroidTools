@@ -1,0 +1,4 @@
+BPF tool for inspection and manipulation of BPF programs and maps.
+
+This is the Android-maintained fork of bpftool from the Linux kernel tree.
+Source: https://android.googlesource.com/platform/external/bpftool
